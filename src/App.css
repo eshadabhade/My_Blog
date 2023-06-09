@@ -1,0 +1,102 @@
+/* Navbar */
+
+.navbar-brand{
+  color: white !important;
+}
+.nav-link{
+  color: white !important;
+  margin-right: 8px;
+  padding: auto;
+}
+.nav-link:hover{
+  color: rgb(5, 54, 5) !important;
+}
+.active{
+  color:rgb(185, 245, 146) !important;
+}
+.container{
+  text-align: justify;
+}
+/* PageNotFound */
+
+.pagenotfound{
+  position: absolute !important;
+  height: 100vh !important;
+  top: 0;
+  text-align: center;
+  background-color: rgb(45, 114, 170);
+  color: white;
+  font-size: 30px;
+  padding-top: 20%;
+}
+.btn{
+  background-color: blanchedalmond;
+}
+.btn:hover{
+  background-color: rgb(238, 196, 140);
+}
+/* Blog */
+
+.btn-primary{
+  background-color: rgb(26, 110, 110);
+  color:white;
+}
+.btn-primary:hover{
+  background-color: #3A98B9;
+  color: black;
+}
+.header{
+  text-align: center;
+  margin-top: 30px;
+  padding: 20px;
+}
+.card{
+  width:90%;
+  height:90%;
+  background-color: whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  transition: 0.3s;
+  text-align: justify;
+}
+.card:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-img-top{
+  background-color: aliceblue;
+  width: 100%;
+  height: 60%;
+}
+/* About */
+
+.Author{
+  margin-top: 30px;
+}
+.about-img{
+  height:95%;
+  width: 90%;
+}
+/* BlogInfo */
+
+.blog-heading{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* footer */
+
+.Footer{
+  text-align: center;
+}
+.foot{
+  margin-top: 50px;
+  background-color: rgb(34, 33, 33);
+  color: whitesmoke;
+  padding-bottom: 20px;
+}
+.footer-link{
+  color: whitesmoke;
+  text-decoration: none;
+}
+ul li{
+  color: whitesmoke;
+  list-style-type: none !important;
+}
